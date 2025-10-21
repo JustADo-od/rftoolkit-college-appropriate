@@ -3,8 +3,10 @@
 Q&A:
 "What even is this?"
 - This is my RFToolkit, made for HackRF One SDR, currently in development, but all the features added right now work just fine
+  
 "What will be added?"
 - Great question - Just added a "Protocols" tab, for now with just ADS-B protocol scan (BETA, please write any issues, i cant test it bc there are no planes flying over ukraine at the moment)
+  
 "Will it work with rtlsdr/bladesdr/whateversdr?"
 - No, currently im making it only work with HackRF One, simply because its the only SDR i have, and im not posting untested code to public use(shoutout to yall kernel source posters)
 
